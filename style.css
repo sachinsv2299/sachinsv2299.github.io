@@ -76,13 +76,13 @@ a {
  **********************************************************************/
 .grid-wrapper {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(200px, .5fr));
     grid-gap: 60px;
 }
 
 .box {
     background-color: #444;
-    padding: 700px;
+    padding: 300px;
     margin: 10px;
 }
 
