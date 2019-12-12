@@ -7,7 +7,7 @@ body {
     /*padding:30px 50px;*/
     cursor:pointer;
     color:#FFF;
-    font-size:2em;
+    font-size:1.5em;
     border-radius:4px;
     border:1px solid #bbb;
     transition: all 0.3s linear;
@@ -82,8 +82,8 @@ a {
 
 .box {
     background-color: #444;
-    padding: 130px;
-    margin: 20px;
+    padding: 700px;
+    margin: 10px;
 }
 
 .box > img {
